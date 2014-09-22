@@ -1,0 +1,8 @@
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\bin\Release\Percolatie.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\bin\Release\Percolatie.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.Properties.Resources.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.PanelSimulaties.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Release\Percolatie.csproj.GenerateResource.Cache

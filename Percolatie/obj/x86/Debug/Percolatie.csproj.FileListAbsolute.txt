@@ -1,0 +1,18 @@
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\bin\Debug\Percolatie.exe
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\bin\Debug\Percolatie.pdb
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\Percolatie.Form1.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\Percolatie.Properties.Resources.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\Percolatie.exe
+C:\Users\Dick\AppData\Local\Temporary Projects\Percolatie\obj\x86\Debug\Percolatie.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\bin\Debug\Percolatie.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\bin\Debug\Percolatie.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.Properties.Resources.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.csprojResolveAssemblyReference.cache
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.csproj.GenerateResource.Cache
+C:\Users\Dick\documents\visual studio 2010\Projects\Percolatie\Percolatie\obj\x86\Debug\Percolatie.PanelSimulaties.resources
